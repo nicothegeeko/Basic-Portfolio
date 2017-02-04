@@ -1,5 +1,305 @@
-header {background:  #ffffff;
-		padding: 20px;
-		border-color:  #cccccc;
-		border-bottom: 5px;
-		border-style: solid;}
+body {background-image:url(../images/tree_bark.png);}
+
+.boarder1 { background-color:#ffffff;
+			border-bottom-color: #cccccc; 
+			border-bottom-style: solid; 
+			border-width: 3px;
+			margin: 0px;
+			width: 1550px;
+			height: 95px;
+			}
+
+
+
+
+.boarder { 	background-color:#ffffff;
+			border-bottom-color: #cccccc; 
+			border-bottom-style: solid; 
+			border-width: 3px;
+			margin: 0px;
+			width: 1390px;
+			height: 95px;
+		 }
+
+.nico-header {background-color: #4aaaa5;
+				color: #feffff;
+				width: 250px;
+				height: 75px;
+    			border: 5px;
+    			margin-left: 150px;
+    			margin-top: 0px;
+    			margin-bottom: 2px;
+    			padding-top: 20px;
+    			overflow: auto;
+    			text-align: center;
+    			font-family: 'Georgia', Times, Times New Roman, serif;}
+
+.Poke-floats {
+ float: right;
+ width: 8%;
+ border-spacing: 2px;
+  
+}
+
+h1 {font-family: 'Georgia', Times, Times New Roman, serif;
+color: #4aaaa5;}
+
+.M-Area {width: 1100px;
+		}
+
+.M-Area-2 {width:1100px;
+		height: 1000px;}
+
+#Nico-Pic {margin-left: 25px;
+	margin: 25px;
+	float: left;
+	}
+
+
+.about-me {
+margin: 25px;
+}
+
+#Main-Section { width: 650px;
+	height: 481px;
+background-color: #ffffff;
+border-color: #dddddd;
+border-style: solid;
+float: left;
+margin-top: 40px;
+margin-left: 130px;
+
+}
+
+#Main-Section-2 {width: 650px;
+	height: 700px;
+background-color: #ffffff;
+border-color: #dddddd;
+border-style: solid;
+float: left;
+margin-top: 40px;
+margin-left: 130px;}
+
+#about-lines {border-bottom-color: #cccccc; 
+			border-bottom-style: solid; 
+			border-width: 3px;
+			width: 70%;
+			margin: auto;}
+ 
+p {font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	font-size: 16px;
+	padding: 10px;
+}
+
+h2 {color:#4aaaa5;}
+
+.Connection {	
+				width: 270px;
+				height: 160px;
+				background-color: #ffffff
+				border-size: 2px;
+				border-style: solid; 
+				border-color: #dddddd;
+				background-color: #ffffff;
+				float: right;
+				text-align: center;
+				margin-left: 0px;
+				margin-top: 40px;
+
+}
+
+#lines {border-bottom-color: #cccccc; 
+				border-bottom-style: solid; 
+				border-width: 3px;
+				width: 70%;
+				margin: auto;}
+
+.floating-away {
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  float: left;
+  padding: 20px;
+}
+
+#footer-time
+			{position: absolute;
+   			bottom: 0;
+   			background-color:#666666;
+			border-top-color: #4aaaa5; 
+			border-top-style: solid; 
+			border-width: 10px;
+			margin: 3px;
+			clear: both;
+			width: 1390px;
+			height: 95px;
+			
+}
+
+#footer-time1
+			{position: absolute;
+   			bottom: 0;
+   			background-color:#666666;
+			border-top-color: #4aaaa5; 
+			border-top-style: solid; 
+			border-width: 10px;
+			margin: 3px;
+			clear: both;
+			width: 1550px;
+			height: 95px;
+			
+}
+
+#footer-time-2
+			{position: absolute;
+   			bottom: -310;
+   			background-color:#666666;
+			border-top-color: #4aaaa5; 
+			border-top-style: solid; 
+			border-width: 10px;
+			margin: 3px;
+			clear: both;
+			width: 1390px;
+			height: 95px;
+			
+}
+
+#copyright {color: #ffffff;
+			font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+			font-size: 16px;
+			text-align: center;
+			padding: 40px;
+			}
+
+
+form {
+  margin: auto;
+  width: 650px;
+  height: 450px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: #777777;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px;
+  
+  
+}
+
+span {padding: 50px;}
+
+#name { width:520px;
+	margin-right:80px;
+	height: 30px;
+	float:right;
+}
+
+#email {width:520px;
+	height:30px;
+	margin-right:80px;
+clear: both;
+float:right;
+}
+
+#Message {width:520px;
+	margin-right:80px;
+	height: 183px;
+clear: both;
+float: right;}
+
+button {width: 100px;
+		height: 40px;
+		clear: both;
+		float: left; 
+		margin-left:50px;
+		margin-top: 20px;
+		background-color: #4aaaa5;
+		color: #ffffff;
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		font-size: 16px;}
+
+#port-images {overflow: auto;}
+
+.module1 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-2.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+h3 {position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+  bottom: 10px;
+  left: 0px;
+  background: #4aaaa5;
+  padding: 4px 8px;
+  color: white;
+  margin: 0;
+  font: 28px 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.module2 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-5.jpg);
+  background-size: cover;
+  position: relative;}
+
+  .module3 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  clear: both;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-1.jpg);
+  background-size: cover;
+  position: relative;}
+
+  .module4 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-9.jpg);
+  background-size: cover;
+  position: relative;}
+
+  .module5 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  clear: both;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-10.jpg);
+  background-size: cover;
+  position: relative;}
+
+
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
